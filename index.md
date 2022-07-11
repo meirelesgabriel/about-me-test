@@ -2,35 +2,16 @@
 Fullstack developer | HTML | CSS | Node.js | React.js | Rocketseat Explorer student
 
 ### Sobre mim
-[github](https://github.com/meirelesgabriel) |
-[linkedin](https://www.linkedin.com/in/meirelesgabriel/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Formado em sistemas de informação pela UniFOA em Volta Redonda - RJ. Experiência com suporte de TI para ambientes laboratoriais e hospitalares. Objetivo atual: se tornar um desenvolvedor fullstack.
 
 ### Projetos
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/meirelesgabriel/gabriel/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Formulário]()
+[Página estática]()
+[Temporizador](https://meirelesgabriel.github.io/explorer-fase-5-desafio-2-focus-timer-dark-mode/)
 
 ### Contato
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[github](https://github.com/meirelesgabriel) |
+[linkedin](https://www.linkedin.com/in/meirelesgabriel/) | cunhacruzmeireles@gmail.com
