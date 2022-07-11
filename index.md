@@ -1,8 +1,9 @@
 ## Gabriel Meireles
-Fullstack developer | HTML | CSS | Node.js | React.js 
-Rocketseat Explorer student
+Fullstack developer | HTML | CSS | Node.js | React.js | Rocketseat Explorer student
 
 ### Sobre mim
+[github](https://github.com/meirelesgabriel) |
+[linkedin](https://www.linkedin.com/in/meirelesgabriel/)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
