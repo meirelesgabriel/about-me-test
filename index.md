@@ -13,5 +13,4 @@ Formado em sistemas de informação pela UniFOA em Volta Redonda - RJ. Experiên
 
 ### Contato
 
-[github](https://github.com/meirelesgabriel) |
-[linkedin](https://www.linkedin.com/in/meirelesgabriel/) | cunhacruzmeireles@gmail.com
+ [linkedin](https://www.linkedin.com/in/meirelesgabriel/) | [github](https://github.com/meirelesgabriel) | cunhacruzmeireles@gmail.com
